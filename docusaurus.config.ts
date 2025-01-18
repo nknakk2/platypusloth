@@ -11,7 +11,7 @@ const config: Config = {
     favicon: 'img/istockphoto-1127169612-612x612.ico',
 
     // TODO( github project link )
-    url: 'https://seonWKim.github.io',
+    url: 'https://nknakk2.github.io',
     // TODO (github project name e.g. /simple-web-programming/ )
     baseUrl: '/mine-platypusloth/',
 
