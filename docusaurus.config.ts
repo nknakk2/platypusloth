@@ -6,19 +6,19 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
     // TODO: fix title, tagline, favicon
-    title: 'YOUR TITLE',
-    tagline: 'YOUR TAGLINE',
+    title: 'PLATYPUSLOTH WILL RULE THE WORLD',
+    tagline: 'BABABABABABABA',
     favicon: 'img/favicon.ico',
 
     // TODO( github project link )
     url: 'https://seonWKim.github.io',
     // TODO (github project name e.g. /simple-web-programming/ )
-    baseUrl: '/simple-web-programming/',
+    baseUrl: '/mine-platypusloth/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'seonWKim', // TODO( github username e.g. seonWKim )
-    projectName: 'simple-web-programming', // TODO( github repository name e.g. simple-web-programming )
+    organizationName: 'nknakk2', // TODO( github username e.g. seonWKim )
+    projectName: 'platypusloth', // TODO( github repository name e.g. simple-web-programming )
     deploymentBranch: "gh-pages",
 
     onBrokenLinks: 'throw',
