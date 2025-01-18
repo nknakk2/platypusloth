@@ -7,8 +7,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
     // TODO: fix title, tagline, favicon
     title: 'PLATYPUSLOTH WILL RULE THE WORLD',
-    tagline: 'BABABABABABABA',
-    favicon: 'istockphoto-1127169612-612x612',
+    tagline: 'EVICT HUMANS',
+    favicon: 'img/istockphoto-1127169612-612x612.ico',
 
     // TODO( github project link )
     url: 'https://seonWKim.github.io',
