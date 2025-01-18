@@ -1,8 +1,8 @@
 {
-  "label": "First-Page",
+  "label": "Platypus",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Fist page description"
+    "description": "Perry, from the popular animated series Finny and Ferb is also a platypus!"
   }
 }

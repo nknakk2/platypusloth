@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Introduction 
+# PLATYPUSLOTH?!
 
-Let's discover how to build a webpage! 
+If you are interested, you should join our platypusloth club!
 
 ## Getting Started
 
-If you need customizing or help, contact Seon Woo Kim. 
+If you want to join, contact us by instagram. 

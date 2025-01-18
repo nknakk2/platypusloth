@@ -12,7 +12,7 @@ type FeatureItem = {
 // Free illustrations: https://undraw.co/illustrations
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Item 1',
+        title: 'Platypus',
         Svg: require('@site/static/img/leaders.svg').default,
         description: (
             <>
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'Item 2',
+        title: 'Sloth',
         Svg: require('@site/static/img/speech.svg').default,
         description: (
             <>
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
         ),
     },
     {
-        title: 'Item 3',
+        title: 'Platypusloth',
         Svg: require('@site/static/img/gatherings.svg').default,
         description: (
             <>

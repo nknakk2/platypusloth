@@ -63,23 +63,23 @@ const config: Config = {
 
     themeConfig: {
         // Replace with your project's social card
-        image: 'img/toastmaster.jpg',
+        image: 'img/sloth.jpg',
         navbar: {
-            title: 'HDTM',
+            title: 'PLATYPUSLOTH',
             // TODO( navigation bar logo image url)
             logo: {
                 alt: 'HDTM Logo',
-                src: 'img/logo.svg',
+                src: 'img/logo.jpg',
             },
             items: [
                 {
                     type: 'docSidebar',
                     sidebarId: 'tutorialSidebar',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: 'Want to learn more?',
                 },
                 {
-                    href: 'https://www.instagram.com/hongdaetoastmasters/',
+                    href: 'https://www.instagram.com/instasloths/',
                     label: 'Instagram',
                     position: 'right',
                 },
@@ -89,11 +89,15 @@ const config: Config = {
             style: 'dark',
             links: [
                 {
-                    title: 'Docs',
+                    title: 'Info',
                     items: [
                         {
-                            label: 'Tutorial',
-                            to: '/docs/intro',
+                            label: 'Sloth',
+                            to: 'https://namu.wiki/w/%EB%82%98%EB%AC%B4%EB%8A%98%EB%B3%B4',
+                        },
+                        {
+                            label: 'Platypus',
+                            to: 'https://namu.wiki/w/%EC%98%A4%EB%A6%AC%EB%84%88%EA%B5%AC%EB%A6%AC',
                         },
                     ],
                 },
@@ -102,12 +106,12 @@ const config: Config = {
                     title: 'Community',
                     items: [
                         {
-                            label: 'Kakao',
-                            href: 'https://open.kakao.com/o/ggM3CWFb',
+                            label: 'Instagram_S',
+                            href: 'https://www.instagram.com/instasloths/',
                         },
                         {
-                            label: 'Instagram',
-                            href: 'https://www.instagram.com/hongdaetoastmasters/',
+                            label: 'Instagram_P',
+                            href: 'https://www.instagram.com/platypus_ci/',
                         },
                     ],
                 },
