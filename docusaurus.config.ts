@@ -8,7 +8,7 @@ const config: Config = {
     // TODO: fix title, tagline, favicon
     title: 'PLATYPUSLOTH WILL RULE THE WORLD',
     tagline: 'BABABABABABABA',
-    favicon: 'img/favicon.ico',
+    favicon: 'istockphoto-1127169612-612x612',
 
     // TODO( github project link )
     url: 'https://seonWKim.github.io',
