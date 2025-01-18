@@ -13,7 +13,7 @@ const config: Config = {
     // TODO( github project link )
     url: 'https://nknakk2.github.io',
     // TODO (github project name e.g. /simple-web-programming/ )
-    baseUrl: '/mine-platypusloth/',
+    baseUrl: '/platypusloth/',
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
