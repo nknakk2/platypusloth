@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
     // TODO: fix title, tagline, favicon
     title: 'PLATYPUSLOTH WILL RULE THE WORLD',
-    tagline: 'EVICT HUMANS',
+    tagline: 'WALALALALAL',
     favicon: 'img/istockphoto-1127169612-612x612.ico',
 
     // TODO( github project link )
